@@ -1,5 +1,24 @@
 {
   "description": "Zangetsu app sources - Latin/Spanish-language collection.",
   "name": "spyou-latin-zan",
-  "sources": []
+  "sources": [
+    {
+      "file": "providers/animeav1.js",
+      "id": "animeav1",
+      "lang": "es",
+      "logo": "icons/animeav1.png",
+      "name": "AnimeAV1",
+      "type": "anime",
+      "version": "1.0.0"
+    },
+    {
+      "file": "providers/animejl.js",
+      "id": "animejl",
+      "lang": "es",
+      "logo": "icons/animejl.png",
+      "name": "AnimeJL",
+      "type": "anime",
+      "version": "1.0.0"
+    }
+  ]
 }
